@@ -1,0 +1,5 @@
+name the injector the name of the exe you want to inject into after the @ 
+put the injector in the same folder as the dll you want to inject.
+
+only works on 64 bit aplications
+crashes if you did not put dll in same folder or game not running or found
